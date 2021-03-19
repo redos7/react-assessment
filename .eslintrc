@@ -23,6 +23,8 @@
     "no-console": 0,
     "comma-dangle": 0,
     "react/forbid-prop-types": 0,
+    "react/prop-types": 0,
+    "react/display-name": 0,
     "no-alert": 2,
     "no-extra-bind": 2,
     "no-loop-func": 2,
